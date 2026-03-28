@@ -1,6 +1,9 @@
 # PyTorch Tutorial (learning repo)
 
 Personal **Jupyter notebooks** while learning **PyTorch**—from tensors and operations through autograd and a simple neural network.
+
+**Related write-up (Medium):** [PyTorch Through the Eyes of Someone Who Ships APIs for a Living](https://medium.com/@itikatyagi60/pytorch-through-the-eyes-of-someone-who-ships-apis-for-a-living-184f9f08ee3e)
+
 ## Contents
 | Notebook | Topic |
 |----------|--------|
