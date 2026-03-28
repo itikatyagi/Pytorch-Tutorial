@@ -1,1 +1,5 @@
-
+# PyTorch (CPU). For GPU/CUDA, use https://pytorch.org/get-started/locally/ instead of this line.
+torch>=2.0.0
+jupyterlab>=4.0.0
+numpy>=1.24.0
+matplotlib>=3.7.0
