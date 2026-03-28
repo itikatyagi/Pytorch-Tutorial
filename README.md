@@ -21,7 +21,7 @@ python -m venv .venv
 # source .venv/bin/activate
 pip install -r requirements.txt
 jupyter lab
- ```
+```
 Open the notebooks from the repo root, or use VS Code / Cursor with the Jupyter extension.
 
 ## Note
